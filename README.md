@@ -23,24 +23,28 @@ A free, customizable, and responsive QR code generator built with **HTML**, **CS
 
 ## 📷 Preview
 
-> *No `/assets/images/` folder required.*  
-> Simply open the site to see the interface in action.
+![Preview](assets/images/screenshot.png)
 
-If you want to add a screenshot later, just save one as `screenshot.png` and insert it like this:
-
-```markdown
-![Preview](screenshot.png)
-
+> Screenshot of the app interface. You can replace this image with your own in the same folder.
 
 ---
 
-🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- [qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
 
 ---
 
-Made with ❤️ by Michael Entera
+## 🙌 Author
+
+Made with ❤️ by **Michael Entera**  
+[GitHub](https://github.com/) | [Vercel](https://vercel.com/)
 
 ---
+
+## 📄 License
+
+This project is free and open-source. Use it, customize it, and share it freely.
