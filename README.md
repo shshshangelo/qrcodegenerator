@@ -23,7 +23,7 @@ A free, customizable, and responsive QR code generator built with HTML, CSS, and
 
 ---
 
- 🛠️ Technologies Used
+🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
