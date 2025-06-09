@@ -25,8 +25,6 @@ A free, customizable, and responsive QR code generator built with **HTML**, **CS
 
 ![Preview](assets/images/screenshot.png)
 
-> Screenshot of the app interface. You can replace this image with your own in the same folder.
-
 ---
 
 ## 🛠️ Technologies Used
