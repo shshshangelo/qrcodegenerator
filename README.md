@@ -32,14 +32,12 @@ A free, customizable, and responsive QR code generator built with **HTML**, **CS
 - HTML5  
 - CSS3  
 - JavaScript  
-- [qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
 
 ---
 
 ## 🙌 Author
 
 Made with ❤️ by **Michael Entera**  
-[GitHub](https://github.com/) | [Vercel](https://vercel.com/)
 
 ---
 
