@@ -30,7 +30,7 @@ A free, customizable, and responsive QR code generator built with HTML, CSS, and
 
 ---
 
-🙌 
+🙌 Credits
 Made with ❤️ by Michael Entera
 
 ---
